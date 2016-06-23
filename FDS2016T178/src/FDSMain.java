@@ -4,7 +4,7 @@ public class FDSMain {
 	public static void main(String[] args) {
 		System.out.println("Hello, World! Comunitário!\n");
 		
-		//Michael
+		//Michael da Costa Móra
 		System.out.println("Hello, World! Comunitário!\n");
 
 		//Insira, aqui, um comentário com seu nome
