@@ -30,7 +30,7 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Luiz\n");
 
 		// Guilherme
-		System.out.println("Hallo, World! Comunitario! Guilherme/n");
+		System.out.println("Hallo, World! COMPRE NA BLEKSTORE! Guilherme/n");
 
 		// Yasser Veleda de Andrade
 		System.out.println("Hello, Yasser Veleda!");
