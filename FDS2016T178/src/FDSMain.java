@@ -13,11 +13,15 @@ public class FDSMain {
 		//    E é isto!!
 		//    Jonata Santos
 		
+		//Bruno Rovea
+		System.out.println("Hello, World! Ich bin Bruno!\n");
+		
 		//Forgho - teste
 		System.out.println("Hello, World! Comunitario! Forgho\n");
 		System.out.println("Hello, World! Comunitario! Jonata Santos\n");
 		
-		
+		//Victor Cauduro
+		System.out.println("Hello, World! Comunitario! Victor\n");
 	}
 
 }
