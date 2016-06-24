@@ -25,6 +25,11 @@ public class FDSMain {
 		//Victor Cauduro
 		System.out.println("Hello, World! Comunitario! Victor\n");
 		
+		//Felipe Lopes
+		System.out.println("Hello, World! Comunitario! Felipe\n");
+		//Victor Cauduro
+		System.out.println("Hello, World! Comunitario! Victor\n");
+
 		//Jean
 		System.out.println("Hello, World! Comunitario! Jean\n");
 
@@ -33,6 +38,7 @@ public class FDSMain {
 		
 		//Yasser Veleda de Andrade
 		System.out.println("Hello, Yasser Veleda!");
+
 	}
 
 }
