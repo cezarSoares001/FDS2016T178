@@ -6,7 +6,7 @@ public class FDSMain {
 		
 		//Michael da Costa Móra
 		//  Complementando.
-		System.out.println("Hello, World! Comunitario!\n");
+		System.out.println("Hello, World! Comunitario! Michael\n");
 
 		//Insira, aqui, um comentário com seu nome
 		//    e um System.out, como no exemplo acima.
@@ -16,7 +16,7 @@ public class FDSMain {
 		System.out.println("Hello, World! Ich bin Bruno!\n");
 		
 		//Forgho - teste
-		System.out.println("Hello, World! Comunitario!\n");
+		System.out.println("Hello, World! Comunitario! Forgho\n");
 		
 		
 	}
