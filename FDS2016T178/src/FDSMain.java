@@ -15,6 +15,9 @@ public class FDSMain {
 		//Forgho - teste
 		System.out.println("Hello, World! Comunitario! Forgho\n");
 		
+		//Guilherme - hehe
+		System.out.println("Hello, World! Comunitario! Guilherme");
+		
 		
 	}
 
