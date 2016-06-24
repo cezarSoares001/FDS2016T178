@@ -15,8 +15,8 @@ public class FDSMain {
 		
 		//Bruno Rovea
 		System.out.println("Hello, World! Ich bin Bruno!\n");
-		
-		//Forgho - teste
+
+		// Forgho - teste
 		System.out.println("Hello, World! Comunitario! Forgho\n");
 		
 		//Jonata Santos - avacalhando com a galera
@@ -33,14 +33,13 @@ public class FDSMain {
 
 		//Luiz Henrique Vieira
 		System.out.println("Hello, World! Comunitario! Luiz\n");
-		
-		//Guilherme só faz besteira
-		System.out.println("Hello, World! Comunitario! Guilherme");
-		
-		
-		//Yasser Veleda de Andrade
+
+		// Guilherme só faz besteira e nem pula linha
+		System.out.println("Hello, World! Comunitario! Guilherme/n");
+
+		// Yasser Veleda de Andrade
 		System.out.println("Hello, Yasser Veleda!");
-		
+
 	}
 
 }
