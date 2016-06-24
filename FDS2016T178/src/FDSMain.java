@@ -38,13 +38,13 @@ public class FDSMain {
 		//Luiz Henrique Vieira
 		System.out.println("Hello, World! Comunitario! Luiz\n");
 		
-		//Guilherme - hehe
+		//Guilherme só faz besteira
 		System.out.println("Hello, World! Comunitario! Guilherme");
 		
 		
 		//Yasser Veleda de Andrade
 		System.out.println("Hello, Yasser Veleda!");
-
+		
 	}
 
 }
