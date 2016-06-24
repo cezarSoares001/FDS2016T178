@@ -14,7 +14,7 @@ public class FDSMain {
 		// Forgho - teste
 		System.out.println("Hello, World! Comunitario! Forgho\n");
 		
-		//Jonata Santos - avacalhando com a galera
+		//Jonata Santos
 		System.out.println("Hello, World! Comunitario! Jonata Santos\n");
 		
 		//Victor Cauduro
@@ -29,8 +29,8 @@ public class FDSMain {
 		//Luiz Henrique Vieira
 		System.out.println("Hello, World! Comunitario! Luiz\n");
 
-		// Guilherme só faz besteira e nem pula linha
-		System.out.println("Hello, World! Comunitario! Guilherme/n");
+		// Guilherme
+		System.out.println("Hallo, World! Comunitario! Guilherme/n");
 
 		// Yasser Veleda de Andrade
 		System.out.println("Hello, Yasser Veleda!");
