@@ -19,7 +19,7 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Forgho\n");
 		
 		//Felipe Lopes
-		System.out.println("Hello, World! Comunitario! Felipe\n");
+		System.out.println("Hello, World! Comunitario! Watashi no namae wa Felipe\n");
 	}
 
 }
