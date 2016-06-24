@@ -12,6 +12,9 @@ public class FDSMain {
 		//    e um System.out, como no exemplo acima.
 		//    E é isto!!
 		
+		//Bruno Rovea
+		System.out.println("Hello, World! Ich bin Bruno!\n");
+		
 		//Forgho - teste
 		System.out.println("Hello, World! Comunitario!\n");
 		
