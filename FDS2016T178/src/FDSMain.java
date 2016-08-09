@@ -5,6 +5,7 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario!\n");
 
 		//Acrescente um comentário e um print com seu nome, como abaixo.
+		//  Stage funcionando.
 
 		//Michael da Costa Móra
 		//  Complementando.
