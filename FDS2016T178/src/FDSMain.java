@@ -10,10 +10,13 @@ public class FDSMain {
 		//Michael da Costa Móra
 		//  Complementando.
 		System.out.println("Hello, World! Comunitario! Michael\n");
-		System.out.println("First!!");
 		
+		//Exibe na tela a mensagem First
+		System.out.println("First");
+	
+		//Exibe na tela a mensagem Second
 		System.out.println("Second");
-
+		
 	}
 
 }
