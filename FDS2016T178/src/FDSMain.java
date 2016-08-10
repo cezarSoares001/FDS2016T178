@@ -11,7 +11,7 @@ public class FDSMain {
 		//  Complementando.
 		System.out.println("Hello, World! Comunitario! Michael\n");
 		
-		//Exibe na tela a mensagem First
+		//Exibe na tela a mensagem First - Eduardo Varela (Linux \o/)
 		System.out.println("First");
 	
 		//Pedro Prado usando linux 
