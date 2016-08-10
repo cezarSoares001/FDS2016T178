@@ -10,8 +10,11 @@ public class FDSMain {
 		//Michael da Costa Móra
 		//  Complementando.
 		System.out.println("Hello, World! Comunitario! Michael\n");
-		System.out.println("First!!");
 		
+		//Exibe na tela a mensagem First
+		System.out.println("First");
+	
+		//Pedro Prado usando linux 
 		System.out.println("Second");
 		
 		// Finalmente
@@ -22,6 +25,8 @@ public class FDSMain {
 		
 		System.out.println("Third");
 
+		// Luccas Carvalho Silveira
+		System.out.println("Third");
 	}
 
 }
