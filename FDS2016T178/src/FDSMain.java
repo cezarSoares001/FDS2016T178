@@ -36,7 +36,10 @@ public class FDSMain {
 		System.out.println("Agora vai");
 		
 		//Carlos Silveira da Silva
-		System.out.println("É HORA DO SHOW!");
+		System.out.println("ï¿½ HORA DO SHOW!");
+		
+		//Camila Bressan
+		System.out.println("Hello!");
 		
 	}
 }
