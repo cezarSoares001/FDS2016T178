@@ -41,5 +41,8 @@ public class FDSMain {
 		//Camila Bressan
 		System.out.println("Hello!");
 		
+		// Lucas Barreto
+		System.out.println(" Hello! ");
+		
 	}
 }
