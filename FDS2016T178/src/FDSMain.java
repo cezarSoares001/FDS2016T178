@@ -14,7 +14,7 @@ public class FDSMain {
 		//Exibe na tela a mensagem First
 		System.out.println("First");
 	
-		//Exibe na tela a mensagem Second
+		//Pedro Prado usando linux 
 		System.out.println("Second");
 
 		// Luccas Carvalho Silveira
