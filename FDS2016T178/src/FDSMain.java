@@ -32,6 +32,10 @@ public class FDSMain {
 		// Paula Belardinelli
 		System.out.println("Hello, Paula!");
 		
+		// Rodrigo Machado
+		System.out.println("Hello, Rodrigo!");
+		
+		
 
 	}
 
