@@ -32,5 +32,7 @@ public class FDSMain {
 		System.out.println("Bombando!");
 
 		System.out.println("Teste nome");
+		
+		System.out.println("Agora vai");
 	}
 }
