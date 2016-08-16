@@ -25,6 +25,18 @@ public class Sistema {
 			
 	}
 	
+	public boolean removeCliente(int pos){
+		if(contCliente>0){
+		for(int i=pos;i<contCliente;i++){
+			cliente[i] = cliente[i+1];
+		}
+		cliente[contCliente] = null;
+		contCliente--;
+			return true;
+		}
+		else return false;
+	}
+	
 	
 	
 	public void distribui(){
@@ -33,15 +45,31 @@ public class Sistema {
 				for(int j = 0;j<4;j++){
 					if(caixa[j].getDisp() == 0){
 						caixa[j].setOcupado();
+						removeCliente(i);
 					}
 				}
 			}
 			
-			else
-				caixa[i].setOcupado();
+
+			}
+		
+
+		for(int i = 0;i<contCliente;i++){
+				if(getIdadeCliente(i) == false){
+					for(int j = 0;j<contCliente;j++){
+						if(caixa[j].getDisp() == 0){
+							caixa[j].setOcupado();
+							removeCliente(i);
+						}
+					}
+				}
+				
+
+				
+		}
 
 		}
-	}
+	
 	
 	public Cliente getCliente(int i){
 		return cliente[i];
@@ -68,6 +96,20 @@ public class Sistema {
 		
 		return aux;		
 	}
+	
+	
+	public String getClientes(){
+		String aux = "";
+		for(int i = 0;i<contCliente;i++){
+			aux = aux + " Nome cliente:" + cliente[i].getNome()+" Posicao: "+i+" \n" ;
+			
+		
+		}
+		
+		return aux;		
+	}
+	
+	
 	
 	
 	
